@@ -1,0 +1,43 @@
+:root {
+    --bs-body-font-family: "Noto Sans TC", Muli, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    --bs-primary-rgb: 2, 56, 89;
+    --bs-link-color : rbg(10, 66, 115);
+    --bs-link-hover-color: rbg(10, 66, 115);
+}
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    font-family: "Noto Sans TC", "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    text-transform: none;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+.tooltip {
+    font-family: "Noto Sans TC", "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.popover {
+    font-family: "Noto Sans TC", "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.subheading {
+  font-family: "Noto Sans TC", "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+a {
+    text-decoration: none;
+}
+
+.social-icons .social-icon:hover {
+background-color: rgb(25, 25, 112);
+}
+
+nav {
+    background-image: url("../assets/img/45-degree-fabric-light.png")
+}
+
+.resume-section {
+    background-color: rgb(255, 248, 220);
+}
